@@ -1,0 +1,24 @@
+import math
+
+def subtraction(2020, 1950)
+total = 70
+return total
+
+def subtraction(2020, 1960)
+total = 60
+return total
+
+pi=3.14159265358979323846264338327950288419716939937510582097494459230781640628620899
+e=2.71828182845904523536028747135266249775724709369995957496696762772407663035354759
+
+def subtraction(2020, 1880)
+total = 140
+return total
+
+def subtraction(2020, 1860)
+total = 160
+return total
+
+def subtraction(2020, 1850)
+total = 170
+return total

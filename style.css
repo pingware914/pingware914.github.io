@@ -1,0 +1,46 @@
+h1{
+	color:red;
+	}
+
+.main{
+	font-size:150px
+}
+
+
+#maindiv {
+  width: 1230px;
+  height: 700px;
+  background: red;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  from {background-color: rgb(255, 60, 0);}
+  to {background-color: chartreuse;}
+}
+div.myDIV {
+  text-align: center;
+}
+.originallink {
+    width:"485px";
+    height:"402px";
+    border:10px solid red
+}
+.note {
+  color: blue
+}
+#deerpong {
+  color: greenyellow
+}
+#beerpong {
+  color: fuchsia
+}
+#secret {
+  color: red
+}
+#tennis {
+  color: gold
+}
+#pingpong {
+  color:rgb(255, 123, 0)
+}
