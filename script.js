@@ -26,3 +26,10 @@ function pingpong(arg1){
     document.getElementById("pingpong").innerHTML=arg1;
     console.log(arg1);
 }
+function openForm() {
+    document.getElementById("myForm").style.display = "block";
+  }
+  
+  function closeForm() {
+    document.getElementById("myForm").style.display = "none";
+  }
